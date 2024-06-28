@@ -10,9 +10,3 @@ Created a machine learning or deep learning model to forecast stock prices based
 
 Predictive Modeling with Linear Regression:
 Built a linear regression model to predict a target variable from a set of independent variables. The task included data preprocessing, feature selection, model training, and evaluation using metrics such as Mean Squared Error or R-squared.
-
-
-
-
-
-
